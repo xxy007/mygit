@@ -4,5 +4,3 @@ Git is free software.
 1234567
 
 2345678
-
-3456789
